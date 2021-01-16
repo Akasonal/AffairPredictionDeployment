@@ -15,15 +15,6 @@ brotlipy==0.7.0
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
-clyent==1.2.2
-comtypes==1.1.7
-conda==4.9.2
-conda-build==3.20.5
-conda-verify==3.4.2
-contextlib2==0.6.0.post1
-cycler==0.10.0
-cytoolz==0.11.0
-defusedxml==0.6.0
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
